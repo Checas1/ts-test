@@ -1,0 +1,9 @@
+.header {
+  margin: 150px auto;
+  font-size: 30px;
+  max-width: 40px;
+  padding: 20px 40px 20px 30px;
+  border: 1px solid #777;
+  border-radius: 20px;
+  background-color: darkgray;
+}
